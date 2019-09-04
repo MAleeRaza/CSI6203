@@ -1,0 +1,104 @@
+{
+	
+	"add a shebang": 
+	{
+	 	"prefix": "ali",
+		"body": [
+	 		"#!/bin/bash"
+	 	],
+		 "description": "Add shebang to Script"
+		 
+	 },
+
+	 "Shebang Black Color":
+	 {
+
+		"prefix" : "BLACK",
+		"body": [
+	 		"\\033[30mBlack\\033[0m "
+	 	],
+	 	"description": "Add shebang to Script"
+
+	 },
+
+	 "Shebang Red Color":
+	 {
+
+		"prefix" : "RED",
+		"body": [
+	 		" \\033[31mERROR\\033[0m "
+	 	],
+	 	"description": "Add shebang to Script"
+
+	 },
+
+	 "Shebang Green Color":
+	 {
+
+		"prefix": "GREEN",
+		"body": [
+	 		" \\033[32mGreen\\033[0m "
+	 	],
+	 	"description": "Add shebang to Script"
+
+	 },
+
+	 "Shebang Brown Color":
+	 {
+
+		"prefix": "BROWN",
+		"body": [
+	 		" \\033[33mBrown\\033[0m  "
+	 	],
+	 	"description": "Add shebang to Script"
+
+	 },
+
+	 "Shebang Blue Color":
+	 {
+
+		"prefix": "BLUE",
+		"body": [
+	 		" \\033[34mBlue\\033[0m  "
+	 	],
+	 	"description": "Add shebang to Script"
+
+	 },
+
+	 "Shebang Purple Color":
+	 {
+
+		"prefix": "PURPLE",
+		"body": [
+	 		" \\033[33mPurple\\033[0m "
+	 	],
+	 	"description": "Add shebang to Script"
+
+	 },
+
+	 "Shebang Cyan Color":
+	 {
+
+		"prefix": "CYAN",
+		"body": [
+	 		" \\033[33mCyan\\033[0m "
+	 	],
+	 	"description": "Add shebang to Script"
+
+	 },
+
+	 "Shebang Grey Color":
+	 {
+
+		"prefix": "GREY",
+		"body": [
+	 		" \\033[33mGrey\\033[0m "
+	 	],
+	 	"description": "Add shebang to Script"
+
+	 }
+
+
+
+	 
+}
