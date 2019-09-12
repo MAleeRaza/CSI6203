@@ -1,6 +1,8 @@
 #!/bin/bash
 
-## WORKSHOP 3
+#Module 3
+# Author: Ali Raza
+# Edith Cowan University, SYD Campus
 
 read -p "type the name of the folder you would like to copy:> " folderName
 #if the name is a valid directory

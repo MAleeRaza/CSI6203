@@ -1,5 +1,8 @@
 #!/bin/bash
-#If 
+
+#Module 5
+# Author: Ali Raza
+# Edith Cowan University, SYD Campus
 
 INI_IFS=IFS
 TFILE=$'\n' ##ISF Seprater to read line by line in a file

@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#Module 5
+# Author: Ali Raza
+# Edith Cowan University, SYD Campus
+
 echo -e " \033[32mCHOOSE THE MENU TO PROCEED:\033[0m "
 
 echo "1 to Create a folder

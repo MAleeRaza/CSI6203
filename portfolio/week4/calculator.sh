@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#Module 4
+# Author: Ali Raza
+# Edith Cowan University, SYD Campus
+
 read -p "Enter first Number:> " num1
 read -p "Enter second Number:> " num2
 

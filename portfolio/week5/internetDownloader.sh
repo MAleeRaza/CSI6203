@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#Module 5
+# Author: Ali Raza
+# Edith Cowan University, SYD Campus
+
 ping -c3 8.8.8.8
 
     if [ $? -eq 0 ]

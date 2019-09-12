@@ -1,5 +1,10 @@
 #!/bin/bash
-#If there aren't two arguments to the script
+
+#Module 5
+# Author: Ali Raza
+# Edith Cowan University, SYD Campus
+
+#If there aren't two arguments to the 
 
 read -p "enter first folder do you want to create from:> " start
 read -p "enter last folder:> " end

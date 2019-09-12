@@ -1,6 +1,8 @@
 #!/bin/bash
 
-## WORKSHOP 4
+#Module 4
+# Author: Ali Raza
+# Edith Cowan University, SYD Campus
 
 read -p > "UserInput.txt " folderName
 #if the name is a valid directory

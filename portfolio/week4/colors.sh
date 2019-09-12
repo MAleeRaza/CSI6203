@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Module 4
+# Author: Ali Raza
+# Edith Cowan University, SYD Campus
 
  ## We can import any color code here By just typing the name
  ## FOr example:

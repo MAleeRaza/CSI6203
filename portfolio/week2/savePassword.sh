@@ -1,4 +1,9 @@
 #!/bin/bash
+
+#Module 2
+# Author: Ali Raza
+# Edith Cowan University, SYD Campus
+
 read -p "Give your required foler Name:> " folderName
 mkdir $folderName
 
