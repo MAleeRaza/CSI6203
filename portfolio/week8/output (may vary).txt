@@ -1,0 +1,23 @@
+Running the download function:
+download function complete
+    \033[31mERROR:\033[0m $1
+this is the start of the script
+Thank you!
+Thank you!
+    \033[31mERROR:\033[0m $1
+        Correct!
+        Too Low!
+        Too High!
+        the area for a triangle with base: $base and height: $height is: $area
+            the area for a triangle with base: $base and height: $height is: $area
+    \033[31mERROR:\033[0m $1
+            Correct!
+            Too Low!
+            Too High!
+    Select an option:
+    1. Print some error text
+    2. Play guessing game
+    3. Print triangles
+    4. Download a file
+    5. Exit
+            goodbye
